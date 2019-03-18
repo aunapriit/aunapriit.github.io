@@ -1,12 +1,12 @@
 ## Overview of portfolio
 
-You can use the [editor on GitHub](https://github.com/aunapriit/aunapriit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is small list of my work over last years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Front-end
 
-### Markdown
+[Analysis of dog show results] (http://aunapriit.github.io/Is-it-worth-attending-dog-show-in-Estonia--using-CatBoost-on-dogs.html) Vizualisation of predicted and real dog show results in dynamic Plotly chart. Made with PlotlyJS and pure javascript.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Retaining wall calculator] (http://www.m3.ee/rw) Verify retaining wall design, and display it as display dynamic SVG. Made with AngularJS 
 
 ```markdown
 Syntax highlighted code block
@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aunapriit/aunapriit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can use the [editor on GitHub](https://github.com/aunapriit/aunapriit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 ### Contact
 
