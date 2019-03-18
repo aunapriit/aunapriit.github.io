@@ -1,6 +1,9 @@
 @import "{{ site.theme }}";
-
 footer {
+    display: none;
+    color: white;
+}
+small {
     display: none;
     color: white;
 }
