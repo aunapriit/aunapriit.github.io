@@ -1,4 +1,4 @@
-## Overview of portfolio
+## Portfolio
 
 Here is some examples of work I have done over the last years.
 
