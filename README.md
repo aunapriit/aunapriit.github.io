@@ -4,9 +4,9 @@ This is small list of my work over last years.
 
 ### Front-end
 
-[Analysis of dog show results] (http://aunapriit.github.io/Is-it-worth-attending-dog-show-in-Estonia--using-CatBoost-on-dogs.html) Vizualisation of predicted and real dog show results in dynamic Plotly chart. Made with PlotlyJS and pure javascript.
+[Analysis of dog show results](http://aunapriit.github.io/Is-it-worth-attending-dog-show-in-Estonia--using-CatBoost-on-dogs.html) Vizualisation of predicted and real dog show results in dynamic Plotly chart. Made with PlotlyJS and pure javascript.
 
-[Retaining wall calculator] (http://www.m3.ee/rw) Verify retaining wall design, and display it as display dynamic SVG. Made with AngularJS 
+[Retaining wall calculator](http://www.m3.ee/rw) Verify retaining wall design, and display it as display dynamic SVG. Made with AngularJS 
 
 ```markdown
 Syntax highlighted code block
